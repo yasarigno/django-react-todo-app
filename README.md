@@ -2,8 +2,13 @@
 
 ## Overview
 
+Follow 
+
+https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react
+
 <div align="center">
-<img src="./content/overview.png" alt="overview" height=400px/>
+<img src="./content/django.png" alt="django" height=400px/>
+<img src="./content/react.png" alt="react" height=400px/>
 </div>
 
 ## Requirements
