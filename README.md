@@ -7,7 +7,7 @@ Follow
 https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react
 
 <div align="center">
-<img src="./content/django.png" alt="django" height=49px/>
+<img src="./content/django.png" alt="django" height=50px/>
 <img src="./content/react.png" alt="react" height=50px/>
 </div>
 
