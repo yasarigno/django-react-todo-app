@@ -16,31 +16,10 @@ https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using
 
 </div>
 
-## Make alive
 
-Start backend server
+## Setup for a clean Python environment
 
-```sh
-python manage.py runserver
-```
-
-Start react
-
-```sh
-npm start
-```
-
-## Requirements
-
-To use the scripts, these need to be installed:
-- pip3
-- pylint
-- gh (github cli)
-- git
-
-## Setup
-
-You can either use Makefile 
+You can either use the Makefile 
 
 ```bash
 make venv
@@ -74,3 +53,16 @@ Note: You can delete the unnecessary folders via
 rm -rf 
 ```
 
+## Getting ready to use the application
+
+Start backend server
+
+```sh
+python manage.py runserver
+```
+
+Start react
+
+```sh
+npm start
+```
