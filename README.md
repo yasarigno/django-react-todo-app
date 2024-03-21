@@ -11,6 +11,25 @@ https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using
 <img src="./content/react.png" alt="react" height=50px/>
 </div>
 
+<div align="center">
+<img src="./content/demo.png" alt="django" height=300px/>
+
+</div>
+
+## Make alive
+
+Start backend server
+
+```sh
+python manage.py runserver
+```
+
+Start react
+
+```sh
+npm start
+```
+
 ## Requirements
 
 To use the scripts, these need to be installed:
@@ -54,10 +73,4 @@ Note: You can delete the unnecessary folders via
 ```bash
 rm -rf 
 ```
-
-<div style="text-align:center; margin-top: 40px;">
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/frattini)
-
-</div>
 
